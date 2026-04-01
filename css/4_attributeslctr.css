@@ -1,0 +1,29 @@
+input[type="text"] {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 1, 1);
+    width:450px;
+}
+input[type="submit"]{
+    background-color: blue;
+    color: azure;
+}
+abbr[title]{
+    background-color: chartreuse;
+}
+p[title]{
+    background-color: crimson;
+    color: antiquewhite;
+}
+span[title]{
+    background-color: blueviolet;
+    color: azure;
+    
+
+}
+span{
+    background-color: darkgoldenrod;
+}
+a[href="https://notebooklm.google/"]{
+    color: rgb(255, 0, 247);
+    
+}
