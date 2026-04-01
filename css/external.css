@@ -1,5 +1,12 @@
-h1{
-    background-color: blueviolet;
+
+span{
+    background-color: rgb(255, 0, 0);
     color: azure;
-    font-style: italic;
 }
+
+blockquote{
+    background-color: rgb(128, 0, 240);
+    color: rgb(255, 255, 255);
+}
+
+
