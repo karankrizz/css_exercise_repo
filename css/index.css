@@ -1,1 +1,10 @@
 
+span[title]{
+    background-color: blueviolet;
+    color: azure;
+    
+
+}
+
+
+    <h1> <span> EXTERNAL </span>&nbsp;<span title="yes">CSS</span></h1>
