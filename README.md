@@ -1,2 +1,3 @@
-> # Types 
-- This branch is for learning css types .
+> # purpose
+
+- This branch is for learning css .
