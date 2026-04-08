@@ -1,15 +1,38 @@
 .container1 {
-    border: 2px solid brown;
-    padding: 30px;
-    margin: 20px 1px;
+    border: 0px solid brown;
+    padding: 5%;
+    margin: 15px 5px;
+    width: 800px;
+    box-shadow: 10px 10px 15px gray;
+
 }
 
-p{
+.pcolor{
+    margin: 50px;
     border: 2px solid green;
     width:500px;
     height:500px;
     line-height: 2.4;
     letter-spacing: 1.5px;
+    box-shadow: 15px 15px 15px rgb(255, 0, 0);
+}
+.pcolor1{
+    margin: 50px;
+    border: 2px solid green;
+    width:500px;
+    height:500px;
+    line-height: 2.4;
+    letter-spacing: 1.5px;
+    box-shadow: 15px 15px 15px rgb(212, 255, 0);
+}
+.pcolor2{
+    margin: 50px;
+    border: 2px solid green;
+    width:500px;
+    height:500px;
+    line-height: 2.4;
+    letter-spacing: 1.5px;
+    box-shadow: 15px 15px 15px rgb(4, 255, 0);
 }
 
 .text-center {
@@ -33,13 +56,15 @@ p{
 
     h4 + ul {
         li {
-            list-style-type: none;
+            list-style-type:none;
         }
 
         a {
             text-decoration: none;
             line-height: 30px;
             letter-spacing: 2px;
+            color: rgb(255, 0, 204);
+            font-family: cursive;
             
         }
     }
