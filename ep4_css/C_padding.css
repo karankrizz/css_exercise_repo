@@ -1,0 +1,13 @@
+.green{
+    background-color: green;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+button{
+    border-radius: 50px;
+    margin: 50px;
+    padding: 20px;
+}
