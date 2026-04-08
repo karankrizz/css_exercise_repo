@@ -1,14 +1,15 @@
 .container1 {
     border: 0px solid brown;
     padding: 5%;
-    margin: 15px 5px;
+    margin: 50px auto;
     width: 800px;
     box-shadow: 10px 10px 15px gray;
+
 
 }
 
 .pcolor{
-    margin: 50px;
+    margin:50px auto;
     border: 2px solid green;
     width:500px;
     height:500px;
@@ -17,7 +18,7 @@
     box-shadow: 15px 15px 15px rgb(255, 0, 0);
 }
 .pcolor1{
-    margin: 50px;
+   margin:50px auto;
     border: 2px solid green;
     width:500px;
     height:500px;
@@ -26,7 +27,7 @@
     box-shadow: 15px 15px 15px rgb(212, 255, 0);
 }
 .pcolor2{
-    margin: 50px;
+   margin:50px auto;
     border: 2px solid green;
     width:500px;
     height:500px;
@@ -50,9 +51,11 @@
     text-align: right;
 }
 .container2{
-    border: 2px solid tomato;
-    margin: 20px 1px;
-    padding: 30px;
+  border: 0px solid brown;
+    padding: 5%;
+    margin: 50px auto;
+    width: 800px;
+    box-shadow: 10px 10px 15px gray;
 
     h4 + ul {
         li {
