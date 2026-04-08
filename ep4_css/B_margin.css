@@ -3,13 +3,18 @@ button{
     color: white;
     border-radius: 25px;
 
+
 }
 
 h1{
+    background-color: crimson;
     border: 2px solid black;
     border-radius: 25px ; 
+    width: 250px;
+    margin: 1% auto;
+    padding: 1%;
     
 }
 p{
-    margin: 100px;
+    margin: 3% ;
 }

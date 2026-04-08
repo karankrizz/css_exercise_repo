@@ -1,11 +1,17 @@
 button{
     background-color: green;
     color: white;
-    border-radius: 25px;
+    border-radius:25px;
+    cursor: pointer;
 
 }
 
 h1{
+    background-color: blueviolet;
+    color: beige;
     border: 2px solid black;
-    border-radius: 25px ; 
+    border-radius: px ; 
+    width: 250px;
+
+    
 }

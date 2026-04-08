@@ -1,5 +1,5 @@
 .container > p{
     border:2px solid red;
     margin:25px;
-    max-height: 50px; 
+    height: 50px; 
 }
