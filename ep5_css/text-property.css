@@ -34,12 +34,10 @@ p{
     h4 + ul {
         li {
             list-style-type: none;
-            /* disc, square, rectangle, none */
         }
 
         a {
             text-decoration: none;
-            /* underline, overline, line-through*/
             line-height: 30px;
             letter-spacing: 2px;
             
