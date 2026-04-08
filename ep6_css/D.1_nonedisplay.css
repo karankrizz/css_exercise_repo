@@ -1,0 +1,18 @@
+.container1 > p {
+    display: inline;
+    margin: 35px;
+    border: 4px solid red;
+    padding: 15px;
+    display: none;
+    box-shadow: 5px 5px  6px gray;
+
+}
+
+.container2 > p {
+    display: inline-block   ;
+    margin: 55px;
+    border: 4px solid red;
+    padding: 15px;
+    box-shadow: 5px 5px  6px gray;
+    
+}

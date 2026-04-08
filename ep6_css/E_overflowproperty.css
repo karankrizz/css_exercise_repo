@@ -1,0 +1,9 @@
+.container1{
+    margin: 20px;
+    border: 2px solid black;
+    padding: 25px;
+    width: 800px;
+    height: 350px;
+    overflow: scroll;
+    box-shadow: 10px 10px 5px gray;
+}
