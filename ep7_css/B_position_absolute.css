@@ -1,0 +1,27 @@
+.parentcontainer{
+    background-color: chocolate;
+    color: aliceblue;
+      height: 200px;
+    width: 200px;
+    padding: 10px;
+    position: relative;
+    top: 100px;
+    left: 650px;
+}
+.childcontainer{
+    background-color: purple;
+    color: aliceblue;
+    height: 100px;
+    width: 100px;
+    padding:20px;
+    position: absolute;
+    top: 45px;
+    left: 41px;
+
+}
+h1{
+    position: relative;
+    top: 50px;
+    /* left: 640px; */
+    text-align: center;
+}

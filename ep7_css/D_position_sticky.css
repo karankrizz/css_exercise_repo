@@ -1,0 +1,14 @@
+.menu{
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    font-size: 15px;
+    font-family: cursive;
+   
+}
+.fontsty{
+    color: rgb(136, 255, 0);
+}
