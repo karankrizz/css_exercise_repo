@@ -1,0 +1,17 @@
+/* h1{
+    text-align: center;
+    text-transform: uppercase;
+} */
+.container{
+    height: 480px;
+    width: 300px;
+    padding: 10px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: chartreuse;
+  
+
+    
+
+}
