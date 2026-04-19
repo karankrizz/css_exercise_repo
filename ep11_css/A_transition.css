@@ -1,17 +1,39 @@
-/* h1{
-    text-align: center;
-    text-transform: uppercase;
-} */
-.container{
-    height: 480px;
-    width: 300px;
+.card{
+    background-color: rgb(255, 0, 0);
     padding: 10px;
-    display: flex;
-    justify-content:center;
-    align-items: center;
-    background-color: chartreuse;
-  
-
+    width: 300px;
+    height: 450px;
+    box-shadow: 10px 10px 12px gray;
+    margin-top: 25px;
+    transition: transform 0.3s ease-in-out;
+}    
+.card:hover{
+    background-color: #cc0000;
+    cursor: pointer;
+    transform: scale(1.05);
     
+}
+.change{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
 
+
+.change:hover{
+    box-shadow: 2px 2px 15px rgb(254, 254, 0);
+    background-color: black;
+    font-family: monospace;
+    padding: 5px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color:#ffffff; /* Dark background for a racing theme */
+    color: white;
+   
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
 }
